@@ -5,7 +5,6 @@ const App = () => {
   return (
     <>
       <Header />
-      <h1>React development has begun!</h1>
     </>
   )
 }
